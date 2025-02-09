@@ -1,0 +1,510 @@
+/*....................mediaquery fire for Macbook Air .....................*/
+@media  screen and (max-width:1280px) {
+    .startup-img1 {
+        padding: 70px 0px 0px 55px;
+    }
+    .startup-img1:hover {
+        padding: 40px 0px 0px 55px;
+    }
+    .third-box {
+        height: 220vh;
+        width: 100%;
+        background-color: rgb(241, 244, 244);
+    }
+} 
+/*...............................mediaquer fir for samsung galaxy S8+..........................*/
+@media screen and (max-width:361px) {
+    .logo {
+        position: absolute;
+        /* margin: 0px 0px 0px 425px; */
+        font-size: 107px;
+        padding: 0px 0px 0px 26rem;
+    }
+
+    .Bootstrap-para {
+        line-height: 75px;
+        font-size: 46px;
+        margin: 0px 70px 0px 70px;
+        padding: 140px 0px 0px 0px;
+    }
+
+    .Bootstrap-box {
+        width: 360%;
+        font-size: 0px;
+        height: 204vh;
+        padding-top: 170px;
+    }
+
+    .Bootstrap-button1 {
+        border-radius: 70px;
+        font-size: 60px;
+        margin: 113px 40px 0px 0px;
+        padding: 30px 70px 30px 70px;
+    }
+
+    .Bootstrap-button2 {
+        border-radius: 70px;
+        font-size: 60px;
+        margin: 113px 40px 0px 0px;
+        padding: 27px 70px 27px 70px;
+    }
+
+    .third-box {
+        height: 838.8rem;
+        width: 360%;
+        background-color: rgb(241, 244, 244);
+    }
+
+    .footer2 {
+        width: 360%;
+        height: 75vh;
+        background-color: rgb(37, 39, 39);
+    }
+    .lists {
+        font-size: 30px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        padding: 130px 0px 0px 0px;
+        display: flex;
+        gap: 28px;
+        list-style: none;
+        text-align: center;
+        /* justify-content: flex-end; */
+    }
+
+}
+
+
+
+/* .....................media query fire for iPhone SE ....................*/
+
+@media screen and (max-width:376px){
+
+    /* ...................navigation bar ..................*/
+    .navigation {
+        height: 60vw;
+        width: 100%;
+    }
+
+    .logo {
+        position: absolute;
+        padding: 0px 0px 0px 28.8rem;
+        font-size: 107px;
+    }
+
+    .lists {
+        font-size: 34px;
+        padding: 128px 103px 29px 0px;
+        gap: 18px;
+    }
+
+
+    /* ..................bootstrap box...............*/
+
+    .Bootstrap-box {
+        width: 360%;
+        font-size: 14px;
+        height: 226vh;
+        padding-top: 250px;
+    }
+
+    .Bootstrap-h2 {
+        padding-top: 205px;
+        font-size: 105px;
+    }
+
+    .Bootstrap-para {
+        line-height: 75px;
+        font-size: 49px;
+        margin: 0px 100px 0px 100px;
+        padding: 140px 0px 0px 0px;
+    }
+
+    .Bootstrap-button1 {
+        border-radius: 70px;
+        font-size: 60px;
+        margin: 113px 40px 0px 0px;
+        padding: 18px 40px 18px 40px;
+    }
+
+    .Bootstrap-button2 {
+        font-size: 60px;
+        border-radius: 70px;
+        padding: 18px 40px 18px 40px;
+    }
+
+    .second-box {
+        text-align: center;
+        height: 200vh;
+        width: 360%;
+        background-color: rgb(255, 255, 255);
+    }
+
+    .second-box-h2 {
+        padding-top: 240px;
+        font-size: 100px;
+    }
+
+    .second-box-para {
+        margin: 0px 100px 0px 100px;
+        line-height: 80px;
+        padding-top: 125px;
+        font-size: 56px;
+        color: #7e7676;
+    }
+
+    /* ...................third box...........................*/
+
+    .third-box {
+        height: 869.8rem;
+        width: 360%;
+        background-color: rgb(241, 244, 244);
+    }
+    .startup {
+        display: flex;
+        gap: 30px;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .startup-img1 {
+        height: 169vw;
+        padding: 44px 0px 0px 0px;
+    }
+
+    .third-box-h1 {
+        padding-top: 200px;
+        padding-bottom: 100px;
+        font-size: 90px;
+    }
+
+    #startup-img-1 {
+        box-shadow: 4px 4px 8px gray;
+        border-radius: 20px;
+        height: 490vw;
+    }
+
+    #startup-img-2 {
+        box-shadow: 4px 4px 8px gray;
+        border-radius: 55px;
+        height: 490vw;
+    }
+
+    .startup-img2 {
+        padding: 100.7rem 0px 0px 0px;
+    }
+
+    #startup-img-3 {
+        box-shadow: 4px 4px 8px gray;
+        border-radius: 30px;
+        height: 490vw;
+    }
+
+    .startup-img-para1 {
+        color: #a4a2a8;
+        font-size: 50px;
+        text-align: center;
+        padding: 100px 0px 40px 0px;
+    }
+
+    .startup-img-para2 {
+        font-size: 60px;
+        text-align: center;
+    }
+
+    .startup-img-para3 {
+        font-size: 50px;
+        padding: 100px 0px 40px 0px;
+        color: #c5c3c9;
+    }
+
+    .startup-img-para4 {
+        font-size: 60px;
+        text-align: center;
+    }
+
+    .startup-img-para5 {
+        text-align: center;
+        font-size: 50px;
+        color: #a29fa6;
+        padding: 100px 0px 40px 0px;
+    }
+
+    .startup-img-para6 {
+        font-size: 60px;
+        text-align: center;
+    }
+
+    /*...................fourth box....................*/
+    .icons {
+        background-color: #f8f8f8;
+        height: 170vw;
+        width: 360%;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    #logo-height {
+        padding: 0px 0px 0px 0px;
+        height: 161px;
+
+    }
+
+    .icon1 {
+        padding: 220px 0px 0px 0px;
+    }
+
+    .fifth-box {
+        color: white;
+        height: 300vw;
+        width: 360%;
+        background-color: rgb(48, 46, 46);
+    }
+
+    .heading2 {
+        padding: 200px 0px 0px 0px;
+        font-size: 80px;
+    }
+
+    .heading1 {
+        padding: 130px 0px 0px 0px;
+        font-size: 75px;
+        LINE-HEIGHT: 130px;
+
+    }
+
+    .btn {
+        margin-top: 125px;
+        border: none;
+        font-size: 65px;
+        border-radius: 90px;
+        padding: 40px 100px 40px 100px;
+        color: white;
+        background-color: rgb(69, 69, 234);
+    }
+
+    .footer2 {
+        width: 360%;
+        height: 50vh;
+        background-color: rgb(37, 39, 39);
+    }
+
+    .footer2-copyright {
+        padding-top: 124px;
+        text-align: center;
+        font-size: 50px;
+        color: #8b898e;
+    }
+}
+
+@media screen and (max-width:431px) and (min-width:376px) {
+
+
+    .lists {
+        font-size: 28px;
+        padding: 64px 22px 80px 0px;
+        gap: 37px;
+    }
+
+    .lists {
+        font-size: 28px;
+        padding: 128px 103px 29px 0px;
+        gap: 37px;
+    }
+
+    .logo {
+        position: absolute;
+        font-size: 108px;
+        padding: 0px 0px 0px 28.8rem;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .Bootstrap-box {
+        width: 314%;
+        padding-top: 255px;
+        height: 150vh;
+    }
+
+    .Bootstrap-h2 {
+        color: white;
+        padding-top: 135px;
+        font-size: 106px;
+    }
+
+    .Bootstrap-para {
+        color: white;
+        line-height: 70px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size: 43px;
+        padding: 80px 72px 0px 72px;
+    }
+
+    .Bootstrap-button1 {
+        font-size: 40px;
+        border-radius: 54px;
+        margin: 60px 40px 0px 0px;
+        padding: 30px 100px 30px 100px;
+    }
+
+    .Bootstrap-button2 {
+        font-size: 40px;
+        border-radius: 54px;
+        margin: 60px 40px 0px 0px;
+        padding: 26px 100px 26px 100px;
+    }
+
+    .second-box {
+        height: 115vh;
+        width: 314%;
+        background-color: rgb(250 250 250);
+    }
+
+    .second-box-h2 {
+        padding-top: 150px;
+        font-size: 79px;
+    }
+
+    .second-box-para {
+        margin: 0px 60px 0px 60px;
+        line-height: 30px;
+        padding-top: 90px;
+        color: #837878;
+        line-height: 84px;
+        font-size: 49px;
+        font-family: 'Times New Roman', Times, serif;
+    }
+
+    .third-box {
+        height: 800.8rem;
+        width: 314%;
+        background-color: rgb(241, 244, 244);
+    }
+
+    .third-box-h1 {
+        padding: 170px 0px 67px 0px;
+        font-size: 80px;
+    }
+
+    .startup {
+        display: flex;
+        gap: 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .startup-img1 {
+        padding: 70px 0px 0px 0px;
+    }
+
+    .startup-img-1 {
+        height: 120vw;
+    }
+
+    #startup-img-1 {
+        box-shadow: 4px 4px 8px gray;
+        border-radius: 20px;
+        height: 400vw;
+    }
+
+    #startup-img-2 {
+        box-shadow: 4px 4px 8px gray;
+        border-radius: 20px;
+        height: 400vw;
+    }
+
+    #startup-img-3 {
+        box-shadow: 4px 4px 8px gray;
+        border-radius: 20px;
+        height: 400vw;
+    }
+
+    .startup-img-para1 {
+        font-size: 40px;
+        padding: 100px 0px 15px 0px;
+    }
+
+    .startup-img-para2 {
+        font-size: 60px;
+        text-align: center;
+    }
+
+    .startup-img-para3 {
+        font-size: 40px;
+        padding: 100px 0px 15px 0px;
+    }
+
+    .startup-img-para4 {
+        font-size: 60px;
+        text-align: center;
+    }
+
+    .startup-img-para5 {
+        font-size: 40px;
+        padding: 100px 0px 15px 0px;
+    }
+
+    .startup-img-para6 {
+        font-size: 60px;
+        text-align: center;
+    }
+
+    .icons {
+        height: 175vw;
+        width: 314%;
+        background-color: #ededed;
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    #logo-height {
+        height: 40vw;
+    }
+
+    .icon1 {
+        padding: 260px 0px 0px 0px;
+    }
+
+    .fifth-box {
+        color: white;
+        height: 220vw;
+        width: 314%;
+        background-color: rgb(48, 46, 46);
+    }
+
+    .heading2 {
+        padding: 176px 0px 0px 0px;
+        font-size: 80px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .heading1 {
+        padding: 30px 0px 0px 0px;
+        font-size: 72px;
+        line-height: 122px;
+        font-family: cursive;
+    }
+
+    .btn {
+        margin-top: 120px;
+        border: none;
+        font-size: 59px;
+        border-radius: 71px;
+        padding: 30px 80px 30px 80px;
+        color: white;
+        background-color: rgb(69, 69, 234);
+    }
+
+    .footer2 {
+        width: 314%;
+        height: 40vh;
+        background-color: rgb(37, 39, 39);
+    }
+
+    .footer2-copyright {
+        padding-top: 97px;
+        text-align: center;
+        font-size: 40px;
+        color: #68676a;
+    }
+
+}
